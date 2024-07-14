@@ -1,4 +1,4 @@
-meme_coins ['PEPE', 'DOGE', 'BONK', 'FLOKI', 'BOME', 'MEME', '1000SATS', 'USTC', 'SHIB', 'WIF']
+meme_coins = {'PEPE', 'DOGE', 'BONK', 'FLOKI', 'BOME', 'MEME', '1000SATS', 'USTC', 'SHIB', 'WIF'}
 
 configurations = {
     'BTC': (100, 1000, 0, 10, 6),

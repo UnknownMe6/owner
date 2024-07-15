@@ -2,7 +2,7 @@ brand = '=> WHATSAPP +92 304 9819006 <=';
 
 packages = ['traceback', 'ccxt', 'requests', 'base64', 'platform', 'os', 'sys', 'time', 'pandas', 'math', 'shutil', 'msvcrt']
 
-meme_coins = {'PEPE', 'DOGE', 'BONK', 'FLOKI', 'BOME', 'MEME', '1000SATS', 'USTC', 'SHIB', 'WIF'}
+meme_coins = ['PEPE', 'DOGE', 'BONK', 'FLOKI', 'BOME', 'MEME', '1000SATS', 'USTC', 'SHIB', 'WIF']
 
 configurations = {
     'BTC': (100, 1000, 0, 10, 6),
@@ -104,5 +104,13 @@ configurations = {
     'WLD': (0.100, 0.200, 3, 100, 6),
     'ZRO': (0.100, 0.200, 3, 100, 6),
 }
+
+BR1 = ['BNB', 'SOL', 'TAO', 'EGLD', 'TRB', 'METIS', 'ORDI', 'AVAX', 'BCH', 'LTC']
+
+BR2 = ['1000SATS', 'BONK', 'SHIB', 'FLOKI', 'MEME', 'DOGE', 'USTC', 'TIA', 'OMNI', 'AUCTION', 'ENS', 'INJ', 'APT', 'RNDR', 'LQTY', 'ENA', 'LDO', 'ARKM', 'ACE', 'IO', 'ICP', 'AR', 'RUNE', 'W', 'AI', 'FET', 'MANTA', 'OP', 'STX', 'REZ', 'STRK', 'PYTH', 'NFP', 'BLZ', 'IOTA', 'BOME', 'AEVO', 'ETHFI','ALT', 'ZK', 'GRT', 'MATIC', 'TNSR', 'JUP', 'BB', 'DYM', 'THETA', 'XRP', 'ADA', 'ALGO']
+
+BR3 = ['WIF', 'SAGA', 'PIXEL', 'SAND', 'PORTAL', 'XAI', 'SEI', 'RAY', 'SUPER', 'SUI', 'BLUR', 'ARB', 'GALA', 'PEOPLE', 'CHZ', 'NOT', 'FTM', 'AXL', 'LISTA', 'PENDLE', 'ATOM', 'FIL', 'UNI', 'ETC', 'NEAR', 'LINK', 'DOT', 'GAS', 'CYBER', 'DYDX', 'WLD', 'ZRO', 'AGIX', 'RONIN', 'JTO']
+
+GR1 = ['1000SATS', 'PEPE', 'BONK', 'FLOKI', 'SHIB', 'MEME', 'DOGE', 'USTC', 'BOME', 'ALT', 'BLZ', 'NFP', 'AI', 'IOTA', 'GALA', 'CHZ', 'NOT', 'FTM', 'ARKM', 'SAND', 'SUPER', 'GRT', 'AGIX', 'XRP', 'ALGO']
 
 

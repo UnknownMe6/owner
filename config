@@ -2,6 +2,41 @@ brand = '=> WHATSAPP +92 304 9819006 <=';
 
 pass_url = "https://raw.githubusercontent.com/UnknownMe6/owner/main/pass"
 
+disclaimer = """
+
+   --------------------------------------------------
+   |---------- DISCLAIMER FOR BOT TRADING ----------|
+   --------------------------------------------------
+   1. No Investment Advice:
+      Informational only; you are responsible
+      for trading decisions.
+   2. Risk Disclosure:
+      Trading is risky; only trade what you
+      can afford to lose.
+   3. Performance Not Guaranteed:
+      Past results don't guarantee future outcomes.
+   4. No Liability:
+      We aren't liable for any losses or damages.
+   5. Educational Use:
+      For educational purposes; don't rely solely
+      on the bot.
+   6. Regulatory Compliance:
+      Ensure you comply with all laws and regulations.
+   7. Modifications:
+      Bot may change or be discontinued without notice.
+   8. User Responsibility:
+      Monitor your trades; align with financial goals.
+   9. Third-Party Services:
+      We're not responsible for third-party services.
+   10.Use at Your Own Risk:
+      No profitability guarantee; use at your own risk.
+
+   --------------------------------------------------
+   By using the bot, you agree to this disclaimer.
+   If you disagree, don't use the bot.
+
+   """
+
 packages = ['traceback', 'ccxt', 'requests', 'base64', 'platform', 'os', 'sys', 'time', 'pandas', 'math', 'shutil', 'msvcrt']
 
 meme_coins = ['PEPE', 'DOGE', 'BONK', 'FLOKI', 'BOME', 'MEME', '1000SATS', 'USTC', 'SHIB', 'WIF']

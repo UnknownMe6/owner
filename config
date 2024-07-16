@@ -4,17 +4,14 @@ pass_url = "https://raw.githubusercontent.com/UnknownMe6/owner/main/pass"
 
 disclaimer = """
 
-   ----------------------------------------------------
-   |----------- DISCLAIMER FOR BOT TRADING -----------|
-   ----------------------------------------------------
-   ☒ No Investment Advice.  ☒ Risk Disclosure.
-   ☒ No Liability.          ☒ Educational Use.
-   ☒ Regulatory Compliance. ☒ Modifications.
-   ☒ User Responsibility.   ☒ Third-Party Services.
-   ☒ Use at Your Own Risk.  ☒ Results Not Guaranteed
-   ----------------------------------------------------
+   ----------- DISCLAIMER FOR BOT TRADING ------------
+   | No Investment Advice.   Risk Disclosure.        |
+   | No Liability.           Educational Use.        |
+   | Regulatory Compliance.  Modifications.          |
+   | User Responsibility.    Third-Party Services.   |
+   | Use at Your Own Risk.   Results Not Guaranteed. |
+   ---------------------------------------------------
    By using the bot, you agree to this disclaimer.
-   If you disagree, don't use the bot.
    """
 
 packages = ['traceback', 'ccxt', 'requests', 'base64', 'platform', 'os', 'sys', 'time', 'pandas', 'math', 'shutil', 'msvcrt']
